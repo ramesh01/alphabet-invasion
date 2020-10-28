@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "alphabet-invasion"
+    }
+  },
+  "defaultProject": "alphabet-invasion",
+  "cli": {
+    "analytics": false
+  }
 }
